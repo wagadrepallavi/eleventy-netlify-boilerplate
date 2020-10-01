@@ -14,6 +14,13 @@ Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) re
 
 ## [Demo Site](https://eleventy-netlify-boilerplate.netlify.app/)
 
+## About this template 
+A template for building a simple blog website with the Eleventy static site generator and deploying it to Netlify. Includes Netlify CMS for content editing.
+This template provides sample pages, blog posts, tag support and a working contact form powered by Netlify Forms.
+
+## What happens when you Deploy to Netlify?
+Once you click the Deploy to Netlify button you’ll be dropped into a simple signup workflow. Connect your Git repository and hit save, and Netlify will deploy the site to a global content delivery network. You’ll receive a link to your live site’s URL.
+
 ## Features
 
 * NEW: Added basic support for post authors, using a simple folder collection
